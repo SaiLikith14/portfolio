@@ -5,28 +5,27 @@
 📞 **+91 9381135423** | ✉️ **sailikith.004@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/likithreddy1407) | 🔗 [GitHub](https://github.com/SaiLikith14)  
 
----
+
 
 ## **Education**  
 ### **Indian Institute of Information Technology Design and Manufacturing, Kurnool** *(2020 – 2024)*  
-- **B.Tech in Artificial Intelligence & Data Science** (CGPA: **7.60**)  
+- B.Tech in Artificial Intelligence & Data Science (CGPA: **7.60**)  
 
 ### **Fiitjee Junior College** *(2018 – 2020)*  
-- **Mathematics, Physics, and Chemistry** (CGPA: **9.8**)  
+- Mathematics, Physics, and Chemistry (CGPA: **9.8**)  
 
 ### **Sri Venkateswara High School** *(2018)*  
-- **S.S.C** (CGPA: **10.0**)  
+- S.S.C (CGPA: **10.0**)  
 
----
 
-## **Skills**  
-- **Programming Languages:** Python, SQL, C++, C  
-- **Machine Learning & AI:** SVM, Decision Trees, CNNs, RNNs, GANs, LSTMs, YOLO, Random Forests  
-- **Libraries & Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn  
-- **Tools:** Microsoft Excel, Streamlit  
-- **Languages:** English, Hindi, Telugu  
+## **Technical Skills**
 
----
+- **Programming**: Python, SQL, C++  
+- **Machine Learning & AI**: LLMs (BERT, GPT, Google Gemini, T5), Transformers, RAG, Fine-tuning, Sentiment Analysis, NER  
+- **Libraries & Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers, Keras, Scikit-learn, Pandas, NumPy  
+- **Data Engineering**: Data Preprocessing, Model Deployment, Real-time APIs  
+- **Web Development**: Streamlit, FastAPI  
+- **Tools**: Git, Cloud Platforms (AWS, Google Cloud), Matplotlib, Seaborn  
 
 ## **Experience**  
 
@@ -40,7 +39,6 @@
 - Engineered a **machine learning-based service prioritization algorithm**, ensuring seamless connectivity by dynamically monitoring and switching networks based on **QoS (Quality of Service) metrics**.  
 - Conducted **real-world testing**, improving **internet reliability** and **latency reduction** across different network conditions.  
 
----
 
 ## **Projects**  
 
@@ -59,7 +57,6 @@
 - Implemented **text pre-processing** techniques and leveraged **pre-trained BERT models** for efficient tokenization and encoding.  
 - Fine-tuned the model using **large-scale sentiment datasets**, enhancing **precision and recall**.  
 
----
 
 ## **Certifications**  
 **Python for Data Science** (IBM)  
@@ -67,7 +64,6 @@
 **Machine Learning Specialization** (Deeplearning.ai)  
 **Natural Language Processing** (NPTEL)  
 
----
 
 ##  **Contact**  
 ✉️ **Email:** [sailikith.004@gmail.com](mailto:sailikith.004@gmail.com)  
