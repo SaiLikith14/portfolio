@@ -1,8 +1,7 @@
 
 # **Sai Likith Kumar Reddy Dugganapalli**  
 📍 Kadapa, Andhra Pradesh, India  
-📞 **+91 9381135423** | ✉️ **sailikith.004@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/likithreddy1407) | 🔗 [GitHub](https://github.com/SaiLikith14)  
+✉️ **sailikith.004@gmail.com**  | 🔗 [LinkedIn](https://linkedin.com/in/likithreddy1407) | 🔗 [GitHub](https://github.com/SaiLikith14)  
 
 ## **Education**  
 ### **Indian Institute of Information Technology Design and Manufacturing, Kurnool** *(2020 – 2024)*  
