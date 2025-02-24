@@ -15,7 +15,7 @@
 
 ## **Technical Skills**
 
-- **Programming**: Python, SQL, C++  
+- **Programming**: Python, SQL, C++   
 - **Machine Learning & AI**: LLMs (BERT, GPT, Google Gemini, T5), Transformers, RAG, Fine-tuning, Sentiment Analysis, NER  
 - **Libraries & Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers, Keras, Scikit-learn, Pandas, NumPy  
 - **Data Engineering**: Data Preprocessing, Model Deployment, Real-time APIs  
