@@ -19,7 +19,7 @@
 - **Libraries & Frameworks**: TensorFlow, PyTorch, Hugging Face Transformers, Keras, Scikit-learn, Pandas, NumPy  
 - **Data Engineering**: Data Preprocessing, Model Deployment, Real-time APIs  
 - **Web Development**: Streamlit, FastAPI  
-- **Tools**: Git, Cloud Platforms (AWS, Google Cloud), Matplotlib, Seaborn  
+- **Tools**: Git, Cloud Platforms (AWS, Google Cloud), Matplotlib, Seaborn
 
 ## **Experience**  
 
