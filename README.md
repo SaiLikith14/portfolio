@@ -10,7 +10,7 @@
 - Mathematics, Physics, and Chemistry (CGPA: 9.8)  
 
 ### **Sri Venkateswara High School** *(2018)*  
-- S.S.C (CGPA: 10.0)  
+- S.S.C (CGPA: 10)  
 
 ## **Technical Skills**
 
